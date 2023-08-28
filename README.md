@@ -29,6 +29,6 @@ composer install
 
 # 
 
-- Configure as informações de conexão com a fonte de dados (banco de dados, API, etc.) no arquivo de configuração apropriado.
+- Configure as informações de conexão com a fonte de dados (banco de dados) no arquivo de configuração apropriado.
 
 - Explore os exemplos de código na pasta do projeto para entender como usar as funcionalidades de CRUD e o padrão DAO.
