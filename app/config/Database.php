@@ -6,10 +6,10 @@
     
     class Database 
     {
-        const LOCALHOST = "localhost"; 
-        const DBNAME = "db_funcionarios";
-        const USERNAME = "root";
-        const PASSWORD = "root";
+        const LOCALHOST = ""; 
+        const DBNAME = "";
+        const USERNAME = "";
+        const PASSWORD = "";
 
         private static $connection; 
 
